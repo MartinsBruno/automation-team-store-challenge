@@ -17,7 +17,7 @@ With this, the base of the application is organized in a single file named app.p
 ## Installation
 - Clone this repository:
 ```bash
-$ git clone https://github.com/dafiti-group/automation-team-store-challenge
+$ git clone https://github.com/MartinsBruno/automation-team-store-challenge
 ```
 - Use the main directory:
 ```bash
